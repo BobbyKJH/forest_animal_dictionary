@@ -22,6 +22,8 @@ time, mark, audio, video {
   display: block;
   font-size: 100%;
   box-sizing: border-box;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 500;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -52,6 +54,8 @@ table {
 *{
   box-sizing: border-box;
   flex-wrap: wrap;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 500;
 }
 body{
 }
